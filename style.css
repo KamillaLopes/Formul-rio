@@ -7,3 +7,23 @@ form label{
   font-size: 20px;
 }
 
+
+table {
+background: rgb(132, 216, 255);
+}
+
+thead {
+  background: rgb(0, 217, 255) ;
+  color:blue;
+  font-weight: bold;
+}
+
+td {
+  border: 1px solid green;
+  border-color: aquamarine;
+}
+
+td, th {
+  border: 1px solid greenyellow;
+  border-color: rgb(1, 72, 163);
+}
